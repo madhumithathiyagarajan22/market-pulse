@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/login/page": "app/login/page.js",
+  "/data-quality/page": "app/data-quality/page.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/stock/[symbol]/page": "app/stock/[symbol]/page.js",
+  "/watchlist/page": "app/watchlist/page.js"
+}
